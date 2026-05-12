@@ -1,0 +1,17 @@
+# Data files
+*.csv
+*.json
+*.zip
+*.xlsx
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Local environments
+venv/
+env/
+.env
